@@ -4,9 +4,8 @@
 
 ### 💻 Desenvolvedor Web | Focado em soluções modernas e eficientes
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO_AQUI)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thiagowms)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago.msantos170@gmail.com)
 
 ---
 
@@ -14,7 +13,7 @@
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor focado no ecossistema Web, apaixonado por construir aplicações robustas, organizadas e escaláveis. Sempre em busca de aperfeiçoar meus conhecimentos em arquitetura de software e desenvolvimento backend.
+Sou um desenvolvedor focado no ecossistema Web, fascinado por construir aplicações robustas, organizadas e escaláveis. Sempre em busca de aperfeiçoar meus conhecimentos em arquitetura de software e desenvolvimento backend.
 
 ---
 
@@ -38,10 +37,10 @@ Sou um desenvolvedor focado no ecossistema Web, apaixonado por construir aplica�
 
 ## 📌 Projetos em Destaque
 
-### 🛡️ [Gestão de Riscos](https://github.com/Thiagowms) *(adicione o link aqui se houver)*
+### 🛡️ [Gestão de Riscos](https://github.com/Thiagowms)
 Sistema completo desenvolvido em **Django** para o gerenciamento inteligente de riscos, incidentes e acompanhamento de planos de ação.
 - **Destaques:** MVT Architecture, Banco de dados relacional, Painel intuitivo.
-- **Techs:** Python, Django, PostgreSQL, HTML/CSS.
+- **Techs:** Python, Django, sqlite3/PostgreSQL, HTML/CSS.
 
 ---
 
@@ -52,15 +51,6 @@ Sistema completo desenvolvido em **Django** para o gerenciamento inteligente de 
 - 🐍 **Django Framework:** Boas práticas, ORM avançado e autenticação.
 - 🗄️ **Banco de Dados:** Modelagem, consultas otimizadas e relacionamentos.
 - 🏗️ **Arquitetura de Sistemas:** Clean Code, padrões de projeto e escalabilidade.
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiagowms&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagowms&layout=compact&theme=dark&hide=html,css"/>
-</div>
 
 ---
 
