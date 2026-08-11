@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, eu sou o Thiago
 
-<!--
-**Thiagowms/Thiagowms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor focado em desenvolvimento web e sistemas de gestão.
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Django
+- JavaScript
+- HTML
+- CSS
+- PostgreSQL
+- Git
+- GitHub
+
+## Projetos
+
+### Gestão de Riscos
+
+Sistema desenvolvido em Django para gerenciamento de riscos, incidentes e planos de ação.
+
+### KMLs
+
+Projeto para processamento e análise de arquivos KML/KMZ.
+
+## Atualmente estudando
+
+- Desenvolvimento backend
+- APIs REST
+- Django
+- Banco de dados
+- Arquitetura de sistemas
