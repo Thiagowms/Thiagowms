@@ -1,11 +1,11 @@
-# Olá, eu sou o Thiago
+# Olá, eu sou o Thiago ❇️
 
-Desenvolvedor focado em desenvolvimento web e sistemas de gestão.
+Desenvolvedor focado em desenvolvimento web 😁
 
 ## Tecnologias
 
+- Django MVT Framework
 - Python
-- Django
 - JavaScript
 - HTML
 - CSS
@@ -18,10 +18,6 @@ Desenvolvedor focado em desenvolvimento web e sistemas de gestão.
 ### Gestão de Riscos
 
 Sistema desenvolvido em Django para gerenciamento de riscos, incidentes e planos de ação.
-
-### KMLs
-
-Projeto para processamento e análise de arquivos KML/KMZ.
 
 ## Atualmente estudando
 
