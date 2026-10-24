@@ -1,10 +1,10 @@
 <div align="center">
 
 # 👋 Olá, eu sou o Thiago!
+![Profile Views](https://komarev.com/ghpvc/?username=Thiagowms&style=for-the-badge&color=dc143c)
 
 ### 💻 Desenvolvedor Web | Focado em soluções modernas e eficientes
 
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thiagowms)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago.msantos170@gmail.com)
 
 ---
@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor focado no ecossistema Web, fascinado por construir aplicações robustas, organizadas e escaláveis. Sempre em busca de aperfeiçoar meus conhecimentos em arquitetura de software e desenvolvimento backend.
+Sou estudante de Licenciatura em computação pela UFRPE do 4° Período, um desenvolvedor focado no ecossistema Web, fascinado por construir aplicações robustas, organizadas e escaláveis. Sempre em busca de aperfeiçoar meus conhecimentos em arquitetura de software e desenvolvimento backend.
 
 ---
 
@@ -25,9 +25,13 @@ Sou um desenvolvedor focado no ecossistema Web, fascinado por construir aplicaç
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### **Frameworks & Databases**
+### **Frameworks**
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### **Version Control & Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -38,9 +42,9 @@ Sou um desenvolvedor focado no ecossistema Web, fascinado por construir aplicaç
 ## 📌 Projetos em Destaque
 
 ### 🛡️ [Gestão de Riscos](https://github.com/Thiagowms)
-Sistema completo desenvolvido em **Django** para o gerenciamento inteligente de riscos, incidentes e acompanhamento de planos de ação.
+Sistema completo desenvolvido em **Django** arquitetura MVT (Model-View-Template) para o gerenciamento inteligente de riscos, incidentes e acompanhamento de planos de ação incluindo painel de gerenciamento de usuarios personalizado para a organização de Consórcio de Transporte Metropolitano Grande Recife.
 - **Destaques:** MVT Architecture, Banco de dados relacional, Painel intuitivo.
-- **Techs:** Python, Django, sqlite3/PostgreSQL, HTML/CSS.
+- **Techs:** Python, Django, sqlite3/PostgreSQL, HTML/CSS, Autenticação via JWT.
 
 ---
 
